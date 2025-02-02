@@ -71,3 +71,14 @@ A modern build tool and development server. It’s incredibly fast and optimized
    ```bash
    npm install
    ```
+3. Run on Dev Environment:
+   ```bash
+   npm run dev
+   ```
+4. Build & Run on Prod Environment:
+   ```bash
+   npm run build
+   ```
+   ```bash
+   npm run preview
+   ```
