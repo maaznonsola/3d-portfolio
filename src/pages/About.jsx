@@ -38,8 +38,8 @@ const About = () => {
       <div className="py-10">
         <h3 className="subhead-text">Work Experience</h3>
         <p className="text-slate-500 leading-relaxed mt-2">
-          I've worked with all sorts of companies, leveling up my skills and
-          teaming up with smart people. Here's the rundown:
+          I've worked with below companies, leveling up my skills and teaming up
+          with smart people. Here's the rundown:
         </p>
       </div>
       <div className="pt-5">
