@@ -1,7 +1,8 @@
-import { Html } from "@react-three/drei";
+import {Html} from "@react-three/drei";
 
 const Loader = () => {
   return (
+    //<Html> allows you to embed regular HTML DOM direcctly into 3D React Three Fibre scene.
     <Html>
       <div className="flex-col gap-4 w-full flex items-center justify-center">
         <div className="w-20 h-20 border-4 border-transparent text-blue-400 text-4xl animate-spin flex items-center justify-center border-t-blue-400 rounded-full">

@@ -51,6 +51,10 @@ const Office = () => {
   };
 
   return (
+    /* <mesh> - defines a mesh object in your scene, essentially a 3D shape.
+      <primitive> - allows you to directly use a Three.js scene objectwithin your React Three Fiber component hierarchy.
+    */
+
     <mesh rotation={[0.3, 3.2, 0]}>
       <primitive
         object={scene}
